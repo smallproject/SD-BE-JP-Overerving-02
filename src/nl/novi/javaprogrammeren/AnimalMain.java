@@ -1,5 +1,7 @@
 package nl.novi.javaprogrammeren;
 
+//import Dog;
+
 public class AnimalMain {
     /*
     Het is traditie om overerving uit te leggen met behulp van dieren. Hier ontkomen jullie dus ook niet aan.
@@ -34,4 +36,7 @@ public class AnimalMain {
 
      */
 
+
+    public AnimalMain() {
+    }
 }
